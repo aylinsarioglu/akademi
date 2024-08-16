@@ -1,8 +1,11 @@
 # udemig eğitim projesi
+
 Bir eğitim kurumu için yapılmış kurslarını tanıtan bir web sitedir.
 
 
 # Kullanılan Teknolojiler
+
+SCSS
 
 # Ekran Kaydı
 
